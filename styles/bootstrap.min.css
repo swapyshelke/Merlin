@@ -3414,8 +3414,8 @@ a.btn.disabled, fieldset[disabled] a.btn {
 
 .btn-warning {
   color: #fff;
-  background-color: #f0ad4e;
-  border-color: #eea236
+  background-color: #000000;
+  border-color: #ffffff
 }
 
 .btn-warning.focus, .btn-warning:focus {
@@ -3425,9 +3425,9 @@ a.btn.disabled, fieldset[disabled] a.btn {
 }
 
 .btn-warning:hover {
-  color: #fff;
-  background-color: #ec971f;
-  border-color: #d58512
+  color: #000;
+  background-color: #e8e8e8;
+  border-color: #504c4c
 }
 
 .btn-warning.active, .btn-warning:active, .open>.dropdown-toggle.btn-warning {

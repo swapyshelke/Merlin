@@ -1,0 +1,25 @@
+# categories
+Kurta & sets
+Tops
+T-Shirts
+Jumpsuit
+Jeans
+Gowns
+Trousers
+
+
+# Brands
+Aurelia
+Roadster
+Levis
+h&M
+Zara
+
+Products
+
+title
+image
+price
+keyword / category
+
+

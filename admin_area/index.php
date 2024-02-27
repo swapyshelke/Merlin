@@ -103,7 +103,8 @@ $count_coupons = mysqli_num_rows($run_coupons);
 
 <body>
 
-<div id="wrapper"><!-- wrapper Starts -->
+    <!-- wrapper Starts --> 
+<div id="wrapper">
 
 <?php include("includes/sidebar.php");  ?>
 

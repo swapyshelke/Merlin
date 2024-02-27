@@ -454,7 +454,7 @@ img {
 }
 
 .page-header__bottomline {
-  background-color: #f8f8f8
+  background-color: #ebebeb
 }
 
 .page-header__bottomline .logo {
@@ -898,7 +898,7 @@ img {
   width: 100%;
   height: 45px;
   padding-left: 18px;
-  background-color: #96e6e6;
+  background-color: #c9cdcd;
   font-size: 13px;
   font-weight: bold;
   -webkit-transition: background-color .3s;
@@ -909,7 +909,7 @@ img {
 }
 
 .btn--basket:hover {
-  background-color: #009595
+  background-color: #989898
 }
 
 .btn--basket .icon-basket {
